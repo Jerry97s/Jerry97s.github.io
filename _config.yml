@@ -1,15 +1,9 @@
-불편을 드려 정말 죄송합니다! ㅠㅠ 일부분만 드리는 바람에 설정 파일의 형식이 깨져서 에러가 났던 것 같네요.
-
-사용자님이 주신 원본 파일 전체 내용을 바탕으로, 필요한 부분만 정확하게 수정하여 파일 전체를 다시 구성했습니다. 아래 코드를 Ctrl+A로 전체 선택해서 지우신 뒤, 그대로 붙여넣으시면 됩니다.
-
-📄 _config.yml 전체 코드 (복사해서 바로 사용)
-YAML
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site.
 
 # Theme Settings
-# remote_theme 설정을 활성화하여 Minimal Mistakes 테마를 적용합니다.
+# 깃허브 기본 테마(primer) 대신 Minimal Mistakes를 사용하도록 강제 설정합니다.
 remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" 
 
